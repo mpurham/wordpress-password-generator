@@ -1,0 +1,26 @@
+{
+	"name": "WordPress Password Generator",
+	"description": "Generate password for wp",
+	"version": "1.0.0",
+	"tags": [
+		"wordpress",
+		"password",
+		"generator"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "Marcell Purham",
+			"email": "m@marcell.me",
+			"homepage": "marcell.me"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/wordpress-password-generator"
+		}
+	]
+}
